@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Language MVVM</string>
+    <string name="translate">TRANSLATE</string>
+</resources>
